@@ -1,0 +1,7 @@
+{
+  "name": "Wager USD Jetton",
+  "description": "Test Wager USD",
+  "symbol": "WUSD",
+  "decimals": 6,
+  "image": "https://raw.githubusercontent.com/YaroslavKh479/wusd-jetton/main/logo.png"
+}
